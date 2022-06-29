@@ -1214,7 +1214,10 @@
 "@screens/account-settings@file:./screens/account-settings":
   version "1.0.0"
 
-"@screens/activity-feed@file:./screens/activity-feed/":
+"@screens/activity-feed@file:./screens/activity-feed":
+  version "1.0.0"
+
+"@screens/barcode-scanner@file:./screens/barcode-scanner/":
   version "1.0.0"
 
 "@sideway/address@^4.1.3":
